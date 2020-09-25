@@ -1,31 +1,34 @@
  <img src="https://raw.githubusercontent.com/ertush/ertush/master/hello_Computer.gif" width="100px">
 
- ## Hi, I'm Eric 
- :waving_hand_medium_dark_skin_tone:
+ ## Hi, I'm Eric :waving_hand:
+
 
 I am an aspiring devops engineer/computer engineer who occasionally likes coding for fun. I am enthusiastic about solving problem and developing innovative ideas to solve problems.
 I enjoy:
-
->> * Scripting :man_technologist_medium_dark_skin_tone:
->> * Puzzles :puzzle_piece:
->> * Reading :books:
->> * Tinkering 
->> * Building (support makers) :toolbox:
->> * Gaming :video_game:
+ * Scripting :man_technologist:
+ * Puzzles :jigsaw: 
+ * Reading :books:
+ * Tinkering 
+ * Building (support makers) :toolbox:
+ * Gaming :video_game:
 
 ## :gear: Technologies and Tools
 
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/shell-powershell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+
 <hr>
+
 ![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=Cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-js-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-php-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+
 <hr>
+
 ![](https://img.shields.io/badge/runtime-nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/iot%20editor-nodered-informational?style=flat&logo=Node-RED&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/containers-docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
@@ -33,15 +36,21 @@ I enjoy:
 ![](https://img.shields.io/badge/container_ochestrator-kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/web-jekyll-informational?style=flat&logo=Jekyll&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ci-github_actions-informational?style=flat&logo=Github+Actions&logoColor=white&color=2bbc8a)
+
 <hr>
+
 ![](https://img.shields.io/badge/code_editor-vscode-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code_editor-arduino.cc-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/iot_protocol-mosquitto-informational?style=flat&logo=Eclipse+Mosquitto&logoColor=white&color=2bbc8a)
+
 <hr>
+
 ![](https://img.shields.io/badge/dbs-mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/dbs-redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/dbs-influxdb-informational?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
+
 <hr>
+
 ![](https://img.shields.io/badge/SBC-raspberry_pi-informational?style=flat&logo=Raspberry+Pi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/iot-smart_things-informational?style=flat&logo=SmartThings&logoColor=white&color=2bbc8a)
 
