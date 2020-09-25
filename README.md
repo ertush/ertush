@@ -1,6 +1,7 @@
- <img src="https://raw.githubusercontent.com/ertush/ertush/master/hello_Computer.gif" width="100px">
+ <img src="https://raw.githubusercontent.com/ertush/ertush/master/hello_Computer.gif" width="150px">
 
- ## Hi, I'm Eric :waving_hand:
+ ## Hi, I'm Eric <img src="https://raw.githubusercontent.com/ertush/ertush/master/wave.gif" width="30px">
+
 
 
 I am an aspiring devops engineer/computer engineer who occasionally likes coding for fun. I am enthusiastic about solving problem and developing innovative ideas to solve problems.
@@ -57,14 +58,14 @@ I enjoy:
 ## Active Projects
  
  * Currently working on an IoT poject known as ![Agrarian](https://agrarian-iot.github.io) :seedling:
- * Watch out for v1.3.7 of powershell module ping_scan :pushpin:'**coming soon**'. For more modules and scripts checkout ![my powershell gallery profile :rocket:](https://powershellgallery.com/profiles/eric_tush)
+ * Watch out for v1.3.7 of powershell module ping_scan :pushpin:'**coming soon**'. For more modules and scripts checkout ![my powershell gallery profile](https://powershellgallery.com/profiles/eric_tush) :rocket:
  * Watch out for a github action to publish to powershell gallery v1 :pushpin:'**coming soon**'.
 
 # Get in touch
 
-You can find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3].
-
 <img src="https://raw.githubusercontent.com/ertush/ertush/master/emoji-typing.gif" width="100px">
+
+You can find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3].
 
 <!-- Icons without padding -->
 
