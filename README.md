@@ -4,7 +4,7 @@
 
 
 
-I am an aspiring devops engineer/computer engineer who occasionally likes coding for fun. I am enthusiastic about solving problem and developing innovative ideas to solve problems.
+Coder and maker. I am enthusiastic about solving problem and developing innovative ideas to solve problems.
 I enjoy:
  * Scripting :man_technologist:
  * Puzzles :jigsaw: 
