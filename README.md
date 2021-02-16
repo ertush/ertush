@@ -57,9 +57,9 @@ I enjoy:
 
 ## Active Projects
  
- * Currently working on an IoT poject known as ![Agrarian](https://agrarian-iot.github.io) :seedling:
- * Watch out for v1.3.7 of powershell module ping_scan :pushpin:'**coming soon**'. For more modules and scripts checkout ![my powershell gallery profile](https://powershellgallery.com/profiles/eric_tush) :rocket:
- * Watch out for a github action to publish to powershell gallery v1 :pushpin:'**coming soon**'.
+ - [] Currently working on an IoT poject known as ![Agrarian](https://agrarian-iot.github.io) :seedling:
+ - [x] Watch out for v1.3.7 of powershell module ping_scan :pushpin:'**coming soon**'. For more modules and scripts checkout ![my powershell gallery profile](https://powershellgallery.com/profiles/eric_tush) :rocket:
+ - [] Watch out for a github action to publish to powershell gallery v1 :pushpin:'**coming soon**'.
 
 # Get in touch
 
