@@ -2,11 +2,12 @@
 
 ## Current Projects
  
- - [ ] Currently working on an IoT poject known as ![Agrarian](https://agrarian-iot.github.io) :seedling:
- - [x] Watch out for v1.3.7 of powershell module ping_scan :pushpin:'. For more modules and scripts checkout ![my powershell gallery profile](https://powershellgallery.com/profiles/eric_tush) :rocket:
- - [x] Watch out for a github action to publish to powershell gallery v1.
+ - [ ] Currently working on [Agrarian](https://agrarian-iot.github.io) web app :seedling:
+ - [x] Agrarian REST api 
+ - [x] Dockerize Agrarian :rocket:
+ - [x] Powershell Google Search Module :rocket: 
 
-# Get in touch
+## Get in touch
 
 You can find me on ![Twitter](https://twitter.com/eromtush), or ![LinkedIn](https://www.linkedin.com/in/eric-mutua-r77/).
 
