@@ -5,7 +5,7 @@
  - [x] Agrarian REST api 
  - [x] Dockerize Agrarian :rocket:
  - [x] Powershell Google Search Module :rocket: 
- - [x] update google_search PS module :rocket:
+ - [x] update Ping Scan PS module :rocket:
 
 ## Get in touch
 
