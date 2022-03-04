@@ -2,10 +2,10 @@
 
 ## Currently working on 
  
- - [ ] Currently working on [Agrarian](https://agrarian-io-pwa.netlify.app/#/signin) web app :seedling:
  - [x] Agrarian REST api 
  - [x] Dockerize Agrarian :rocket:
  - [x] Powershell Google Search Module :rocket: 
+ - [x] update google_search PS module :rocket:
 
 ## Get in touch
 
